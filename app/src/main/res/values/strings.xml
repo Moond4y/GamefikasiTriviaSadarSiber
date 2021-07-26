@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Sadar Siber</string>
+    <string name="question">Pertanyaan</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="time">15</string>
+    <string name="correct">Cakep</string>
+    <string name="wrongans">Waduh, harus belajar lagi ini</string>
+    <string name="timeup">Waktu Habis</string>
+    <string name="play_game">Mainkan</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="cancel">✖</string>
+    <string name="materi_name">Nama Materi</string>
+    <string name="materi">Materi</string>
+    <string name="materi_title">Seputar Siber</string>
+    <string name="desc">Deskripsi</string>
+    <string name="highscore">Highscore</string>
+    <string name="video">Video</string>
+    <string name="Keluar">Keluar</string>
+    <string name="MenujuMateri">Menuju Materi</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string-array name="materi_list">
+        <item>Brute-Force Attack</item>
+        <item>Browsing</item>
+        <item>Keamanan Fisik</item>
+        <item>Password</item>
+        <item>Phising</item>
+        <item>PII</item>
+        <item>Ransomware</item>
+        <item>Tanggung Jawab Keamanan Siber</item>
+        <item>Typosquatting</item>
+        <item>Worm</item>
+    </string-array>
+
+    <string-array name="materi_description">
+        <item>Usaha hacker untuk memecahkan suatu password dengan berulang kali mencoba untuk menebaknya dengan bantuan program.</item>
+        <item>Browsing adalah aktivitas mengakes beragam informasi yang terdapat pada website di jaringan internet. Browsing dapat dilakukan menggunakan aplikasi yang kita sebut dengan Browser. Fitur privat mode atau incognito yang terdapat dalam browser tidak membuat kita anonim atau tidak dapat dilacak, melainkan hanya melindungi jejak browsing kita dari pengguna lain dalam device tersebut saja. Ketika mengakses suatu website, maka website dengan laman https akan memiliki logo gembok yang berarti lalu lintas data antara komputer kita dengan server terlindungi. Kita harus berhati-hati dalam melakukan browsing, terutama apabila transaksi online seperti membeli dari website toko online. Kita harus melakukan riset terkait reputasi suatu situs apakah terpercaya atau tidak sebelum memutuskan untuk transaksi.</item>
+        <item>Membahas keamanan siber, kita juga harus mengetahui terkait keamanan fisik. Hal ini berkaitan dengan perlindungan hardware dari ancaman, dan juga termasuk kesadaran kita akan serangan yang dapat terjadi dari perangkat fisik. Kita harus melindungi data kita tidak hanya melalui cloud, melainkan juga dengan menyimpan pada harddisk eksternal. Selain itu, kita juga harus waspada dan tidak sembarangan menggunakan penyimpanan seperti harddisk atau flashdisk, dimana apabila kita menemukan sembarang penyimpanan, maka jangan langsung kita buka. Melainkan kita harus melaporkan kepada pihak IT atau yang memahami untuk mengecek terkait ada malware atau tidak dan agar mereka dapat mencari tau siapa pemilik perangkat penyimpanan tersebut. Dikarenakan ancaman terhadap keamanan siber juga dapat melalui perangkat fisik</item>
+        <item>Password haruslah setidaknya lebih dari 8 karakter dan terdapat karakter spesial, angka, dan campuran huruf uppercase dan lowercase. Selain itu, hindari penggunaan kata yang umum digunakan dalam kamus. Ini untuk mempersulit penebakan password dengan hacking scripts. Jangan menaruh semua telur dalam satu keranjang. Tentu kita tidak mau apabila semua akun kita tersusupi hanya karena satu akun yang terbajak. Gunakan password yang berbeda untuk setiap akun. Dan perlu diingat, kita tidak perlu membuat seluruh password berbeda, cukup bedakan satu bagian saja yang berhubungan dengan situs atau aplikasi tersebut. Apabila terjadi kebocoran akun, maka kita harus mengganti password kita dan melaporkannya kepada pihak yang berwenang seperti bagian IT. </item>
+        <item>Phising adalah tujuan untuk memperoleh informasi pribadi seperti password atau data-data lainnya, dengan cara menipu. Phising juga dapat merusak jaringan yang ada disekitar kita, seperti jaringan lingkup sekolah atau rumah kita. Hal ini disebabkan karena serangan phising bisa memancing kitauntuk mendownload worm atau malware yang mudah menyebar melalui jaringan. Selain itu, terdapat juga spear phising. Spear phising adalah bentuk yang unik dari phising, dimana pesan yang dibuat terlihat berasal dari seseorang yang kita kenal dan percaya, bukan dari pihak ketiga. Spear phising lebih berbahaya dari phising karena menggunakan informasi yang terkait dengan kita dimana informasi ini dapat ditemukan oleh penyerang dari database email, daftar teman, dan hal-hal yang kita sukai. Phising tidak terbatas hanya melalui email atau website palsu saja, melainkan juga bisa melalui telepon atau sms yang mengutamakan urgensi dan rasa takut atau senang berlebih, sehingga pengguna terpancing untuk memberikan informasi pribadinya atau bahkan memberikan materi seperti uang kepada penyerang. Oleh karena itu, kita harus selalu memastikan dan jangan memberikan apapun terhadap pihak yang tidak kita ketahui identitas dan kebenarannya.</item>
+        <item>Personal Identifiable Information (PII) adalah informasi yang digunakan untuk melakukan verifikasi identitas seseorang dan membedakan seseorang dengan orang lainnya. PPI merupakan suatu hal yang personal, sehingga hanya boleh diberikan atas dasar butuh-untuk-tau. Jaga seluruh PII kita dan jangan bagikan kepada pihak tak terpercaya</item>
+        <item>Ransomware adalah sejenis malware yang biasanya apabila aktif atau berhasil menyusupi suatu sistem, akan melakukan enkripsi terhadap seluruh file yang ada. Selanjutnya akan mengunci file tersebut dan meminta tebusan kepada korban apabila ingin filenya kembali. Oleh karena itu, kita tidak boleh sembarang menginstall aplikasi terutama aplikasi bajakan dari sumber tidak terpercaya. Apabila kita mendapat serangan tersebut, maka jangan pernah mengirimkan uang atau bitcoin kepada penyerang, hal ini dikarenakan tidak ada jaminan bahwa penyerang akan memberikan kata kunci untuk file kita, atau jaminan bahwa penyerang tidak akan menyerang lagi. Sehingga, penting untuk melakukan backup secara berkala agar tidak kehilangan data akibat serangan virus secara tiba-tiba.</item>
+        <item>Tanggung jawab dari keamananSiber adalah tanggung jawab dari seluruh pihak. Dikarenakan kekuatan atau keamanan suatu organisasi atau lembaga ditentukan oleh kekuatan dan keamanan dari rantai terlemahnya.</item>
+        <item>Serangan Typosquatting adalah pembajakan terhadap suatu merk atau website yang mengandalkan kesalaan seperti typo yang dilakukan oleh pengguna internet ketika memasukkan alamat website ke dalam browser. Hal ini biasanya berhubungan dengan phising dalam membentuk situs palsu agar lebih sering dikunjungi. Contohnya adalah penggunaan situs seperti micoosoft atau mircosoft untuk membajak merk microsoft. Namun, beberapa merk sudah melindungi websitenya dari serangan semacam ini dengan memastikan setiap website typosquatting akan diarahkan ke website aslinya, seperti google yang apabila kita masukkan url gogle atau gooogle, maka akan tetap mengarah ke laman utama google.</item>
+        <item>Worm adalah sebuah program komputer atau bisa juga disebut virus yang dapat menggandakan dirinya secara sendiri dalam sistem komputer.</item>
+
+    </string-array>
+
+    <array name="materi_icon">
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+    </array>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="SELAMAT!" />
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="25dp"
+        android:text="Anda telah memenangkan permainan ini dan membuka secret ending. Berikut adalah tim awal penyusun aplikasi ini sebelum dilanjutkan secara mandiri oleh saya. Semoga anda menikmati permainannya!
+" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/congomen"
+        android:layout_margin="20dp"/>
+
+    <info.hoang8f.widget.FButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/play_again"
+        android:textColor="@color/white"
+        android:id="@+id/platygaianbutton"
+        android:layout_margin="15dp"
+        android:onClick="PlayAgain"
+        />
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/backButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_margin="15dp"
+        android:text="@string/Keluar" />
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662346253892",
+    "project_id": "quizgamefikasisadarsiber",
+    "storage_bucket": "quizgamefikasisadarsiber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662346253892:android:e76a4bdfd65c8883919e11",
+        "android_client_info": {
+          "package_name": "com.example.gamefikasitrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662346253892-n5evejppae7ifh6ojrnrncflgmuhp72a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLsIZIQg-v4OwLcoB0Vh1jawWbEo9-KTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662346253892-n5evejppae7ifh6ojrnrncflgmuhp72a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
