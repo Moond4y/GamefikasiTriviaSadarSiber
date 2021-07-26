@@ -15,7 +15,7 @@
         <ListView
             android:id="@+id/listviewtxt"
             android:layout_width="match_parent"
-            android:layout_height="510dp"
+            android:layout_height="match_parent"
             android:layout_alignParentTop="true"></ListView>
     </LinearLayout>
     <LinearLayout
